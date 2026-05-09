@@ -1,0 +1,11 @@
+{
+  "compute_tier": "BIGGPU",
+  "base_model": "unsloth/Qwen2.5-7B-bnb-4bit",
+  "beta": 0.1,
+  "lr": 5e-07,
+  "epochs": 1,
+  "final_train_loss": 0.6851183177947998,
+  "end_chosen_reward": -0.6740455627441406,
+  "end_rejected_reward": -1.0652697920799254,
+  "end_reward_gap": 0.3912242293357848
+}

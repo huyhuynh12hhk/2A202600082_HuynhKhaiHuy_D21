@@ -15,13 +15,13 @@ __pycache__/
 
 # Lab artifacts (regenerated on every run; do not commit)
 lab22_biggpu_checkpoint/
-data/pref/
-data/eval_prompts.json
-adapters/sft-mini/
-adapters/dpo/
-adapters/orpo/
-gguf/
-*.gguf
+# data/pref/
+# data/eval_prompts.json
+# adapters/sft-mini/
+# adapters/dpo/
+# adapters/orpo/
+# gguf/
+# *.gguf
 runs/
 wandb/
 
